@@ -42,12 +42,12 @@
 export default {
   data() {
     return {
-    car: {
-      marque: '',
-      modele: '',
-      annee: '',
-      carburant:''
-    }
+      car: {
+        marque: '',
+        modele: '',
+        annee: '',
+        carburant:''
+      }
     }
   },
   methods: {
